@@ -1,0 +1,71 @@
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.exe
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.deps.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.runtimeconfig.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.pdb
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.csproj.AssemblyReference.cache
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.AssemblyInfoInputs.cache
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.AssemblyInfo.cs
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.ContactManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactManagementAPI.props
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactManagementAPI.props
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactManagementAPI.props
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\scopedcss\bundle\ContactManagementAPI.styles.css
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.csproj.CopyComplete
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\refint\ContactManagementAPI.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.pdb
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.genruntimeconfig.cache
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\obj\Debug\net7.0\ref\ContactManagementAPI.dll
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Data\contact.json
+C:\Users\IN10025010\OneDrive - R1\Desktop\Assignment\ContactManagementAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Data\contact.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.exe
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.deps.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.runtimeconfig.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\ContactManagementAPI.pdb
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.sourcelink.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.ContactManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactManagementAPI.props
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactManagementAPI.props
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactManagementAPI.props
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\scopedcss\bundle\ContactManagementAPI.styles.css
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactM.CBEE78D3.Up2Date
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\refint\ContactManagementAPI.dll
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.pdb
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ContactManagementAPI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Assingment\ContactAPIBackend\ContactManagementAPI\obj\Debug\net7.0\ref\ContactManagementAPI.dll
